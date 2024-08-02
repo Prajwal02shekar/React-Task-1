@@ -1,0 +1,15 @@
+.header{
+    background-color: royalblue;
+    height:4rem ;
+}
+
+ul{
+    height: inherit;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0 1.5rem;
+}
+li{
+    color: #fff;
+}

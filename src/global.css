@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+li{
+    list-style: none;
+    text-transform: uppercase;
+}
+.buttonSection{
+    display: flex;
+    gap: 1.5rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+.footerSection{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    padding: 10px;
+}
+.footerSection ul{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.footerSection ul li {
+    font-size: 30px;
+}
